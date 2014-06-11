@@ -14,11 +14,11 @@ We'll probably be doing some Human Computer activities as well in order to help 
  
 We'll be working with 25-30 girls between the ages of 9-11
  
-*Time commitment:*
-* June 22 TBd time for volunteer introductions and light training, we'll provide a meal if the time hits a meal time.  
-* June 23 - 27th, 9:15am to 11:30am.
+**Time commitment:**
+* *June 22* TBD time for volunteer introductions and light training, we'll provide a meal if the time hits a meal time.
+* *June 23 - 27th*, 9:15am to 11:30am
  
-*Location:*
+**Location:**
 * Fall Creek Academy  
   2540 N Capitol Ave, Indianapolis, IN 46208
  
@@ -31,5 +31,5 @@ Thanks,
  
 Coder Dojo Indy organizers!
  
-More on Scratch!
+More on Scratch!  
 http://scratch.mit.edu
