@@ -1,9 +1,9 @@
 # Computers do EXACTLY what you tell them to
 
-A computer reads one instruction after another and then does what that instruction tells it to.  Exactly what that instruction tells it to do, no more, no less.  We are going to see how this works by moving a Turtle around a room.
+A computer reads one instruction after another and then does what that instruction tells it to.  Exactly what that instruction tells it to do, no more, no less.  
 
 ### Unplugged
-
+We are going to see how this works by moving a Turtle around a room. Each girl will have one role, turtle, computer, or instruction.  The computer is going to read the instructions one at a time and execute them (follow the instruction).
 + Setup
   + groups of about 10
   + need 1 "computer"
