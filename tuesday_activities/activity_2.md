@@ -7,6 +7,7 @@ This time we are going to be a mouse, mice are very afraid of cats, if they sens
 they run back to their holes. This time we need 1 computer, 1 if else statement, 1 question 
 or "expression" that has an answer of yes or no, 1 mouse and 2 instructions.
 + Setup
+  + designate a "mouse hole" spot on the floor. 
   + need 1 "computer"
   + need 1 "if-else statement"
   + need 1 "expression"
