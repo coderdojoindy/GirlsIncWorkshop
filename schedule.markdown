@@ -15,16 +15,16 @@
 ### Tuesday
 + **Introduction to Scratch.  make the cat meow.**
 + **FUN-damentals**
-  + Computers do exactly what you tell them to do.
+  1. Computers do exactly what you tell them to do.
     + Unplugged activity -> moving the girl.
     + Plugged activity -> moving the cat.
-  + Decisions
+  2. Decisions
     + Unplugged activity -> red light, green light.
     + Plugged activity -> moving the cat with the keyboard.
-  + Repeating
+  3. Repeating
     + Unplugged activity -> Looping
     + Plugged activity -> moving the cat until something changes.
-  + Variables
+  4. Variables
     + Unplugged activity -> counting things
     + Plugged activity -> counting clicks on the cat.
 + **Start building the game!**
