@@ -20,7 +20,8 @@
     + Plugged activity -> moving the cat.
   2. Decisions
     + Unplugged activity -> red light, green light.
-    + Plugged activity -> moving the cat with the keyboard.
+    + Plugged activity -> move the left if the cat is on the right side of the screen, move  
+      the cat right if its on the left side of the screen every time you click the green flag.
   3. Repeating
     + Unplugged activity -> Looping
     + Plugged activity -> moving the cat until something changes.
