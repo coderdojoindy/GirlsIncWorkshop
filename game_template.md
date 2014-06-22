@@ -32,3 +32,4 @@ Gameplay:
 Embelishments:
 + add other types of drop sprite that do things like "+1 life" "double value"
 + make more sprites fall, or the sprites fall faster as the game goes on in lenght (increase difficulty over time.)
++ add a game start screen that has instructions for how to play with a start button.
