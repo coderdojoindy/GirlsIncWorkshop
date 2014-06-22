@@ -3,25 +3,12 @@
 Having the computer execute a series of instructions is great, but it isn't very useful, the computer will do the same thing over and over and over and over every time you run it.  You can have your program do different things based on the answer to a question.  This is done with an **IF** statement.  An **IF** statement looks at a question that can be answered with Yes or No and then tells the computer which line of instructions to start executing next.
 
 ### Unplugged
-This time we are going to be a mouse, mice are very afraid of cats, if they sense a cat 
-they run back to their holes. This time we need 1 computer, 1 if else statement, 1 question 
-or "expression" that has an answer of yes or no, 1 mouse and 2 instructions.
-+ Setup
-  + designate a "mouse hole" spot on the floor. 
-  + need 1 "computer"
-  + need 1 "if-else statement"
-  + need 1 "expression"
-  + need 1 "mouse"
-  + need 2 "instructions", one is find food, and one is hide.
-+ Execution
-  + the mouse needs to be in an open spot, the hide instruction makes the 
-    mouse go back to her hole which will just be another designated spot on the floor, find food instruction
-    will cause the mouse to turn right, take 2 steps and then walk in a circle.
-  + the computer will ask the if statement which instruction is next.
-  + the if statement will ask the expression "is there a cat here?" (expression will answer yes or no, her choice).
-  + the if statement will tell the computer the appropriate next instruction to go to based on the expressions answer.
-  + the computer will read that instruction and make the mouse do the action.
-+ Repeat by switching roles, choose a new expression, if-else statement, mouse and instructions.
+This time we are going to play a game called if/else. There will be a leader who will make an if/else statement then call out start to have everyone perform that statement. 
+
+We will do a group example: "if your favorite color is green, do a dance, else hop"
+Our second example: "if you had cereal for breakfast run to the left side, else run to the right side."
+
+We will then split them up to groups. Have girls control the rest of the group for one example (ask after if they get the idea). Then have them use if/else to sort themselves by age. Then sort by height. (Note, this is not the time to discuss sorting strategies/algorithms. They will eventually come to a strategy like if you are Jane move right).
 
 ### Scratch
 
