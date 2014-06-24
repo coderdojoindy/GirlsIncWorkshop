@@ -5,8 +5,7 @@ Sometimes it is helpful to be able to repeat a set of instructions. This is call
 ### Unplugged
 We are going to make our mouse find food a little bit better.  Before in our example the mouse would only hide or look for food one time each time our program is run, but then our mouse was stuck in the open.  We want our mouse to keep searching for food until a cat comes, and then hide.
 ```
-while the cat is not around
-search for food
+while the cat is not around, search for food
 when the cat shows up, then hide.
 ```
 ![Diagram](https://raw.githubusercontent.com/coderdojoindy/GirlsIncWorkshop2014/master/images/repeating.png)
@@ -15,6 +14,8 @@ when the cat shows up, then hide.
   + 1 expression
   + 1 mouse
   + 3 instructions, search for food, hide, and squeak.
+  + Create one shoulder to shoulder line with the expression, the hide instruction and the squeak instruction.
+    The girls with the search for food card should stand in line behind the expression.
 + Execution
   + the computer will ask the expression her question "is the cat around?"
   + if the answer is no, then the computer goes to the girl with the NO card. performs her 
