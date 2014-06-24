@@ -19,9 +19,8 @@ tell the mouse to squeak.
   + need 1 "expression"
   + need 1 "mouse"
   + need 3 "instructions", "run and hide", "find food", "squeak"
-  + Create two "shoulder to shoulder lines", the expression girl and the squeak instruction
-    should be standing shoulder to shoulder, with some space in between them. the girs with
-    yes and no cards should be standing shoulder to shoulder behind the expression girl.
+  + Create one shoulder to shoulder line with the expression and the squeak instruction.
+    The girs with yes and no cards should be standing in two lines behind the expression.
 + Execution
   + the mouse needs to be in an open spot, the hide instruction makes the 
     mouse go back to her hole which will just be another designated spot on the floor, find food instruction
