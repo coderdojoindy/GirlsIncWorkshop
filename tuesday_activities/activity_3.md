@@ -4,6 +4,12 @@ Sometimes it is helpful to be able to repeat a set of instructions. This is call
 
 ### Unplugged
 We are going to make our mouse find food a little bit better.  Before in our example the mouse would only hide or look for food one time each time our program is run, but then our mouse was stuck in the open.  We want our mouse to keep searching for food until a cat comes, and then hide.
+```
+while the cat is not around
+search for food
+when the cat shows up, then hide.
+```
+![Diagram](https://raw.githubusercontent.com/coderdojoindy/GirlsIncWorkshop2014/master/images/repeating.png)
 + Setup
   + 1 computer
   + 1 expression
