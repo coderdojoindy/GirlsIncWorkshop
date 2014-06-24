@@ -13,15 +13,14 @@ when the cat shows up, then hide.
 + Setup
   + 1 computer
   + 1 expression
-  + 1 loop.
   + 1 mouse
-  + 2 instructions (search for food - same as prevous activity, and hide - same as previous activity)
+  + 3 instructions, search for food, hide, and squeak.
 + Execution
-  + the computer will ask the loop what instruction it should read next.
-  + the loop will ask the expression if the cat is around.
-  + the loop will tell the computer what set of instructions to execute.
-  + the computer will execute the instructions.
-  + the computer goes back to the loop until the loop tells it to go to the first instruction outside of the loop.
+  + the computer will ask the expression her question "is the cat around?"
+  + if the answer is no, then the computer goes to the girl with the NO card. performs her 
+    instruction and then goes back to the instruction.
+  + if the answer is yes, go to the gir with the YES card and perform her instruction
+    and then on to the last instruction.
 + Repeat switching roles.
 
 ### Scratch
