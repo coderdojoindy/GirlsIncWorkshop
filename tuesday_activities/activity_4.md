@@ -10,22 +10,23 @@ We are going to build on our mouse foraging program. This time we are going to c
 the number of food searches a mouse does before the cat shows up. Instead of the mouse
 hiding at the end of the loop, our program will execute an instruction that shouts the
 value of the searchCount variable.
+```
+while the cat is not around, search for food, add 1 to the search count.
+when the cat shows up, then hide, shout searchCount.
+```
+![Diagram](https://raw.githubusercontent.com/coderdojoindy/GirlsIncWorkshop2014/master/images/variables.png)
 + Setup
   + 1 computer
-  + 1 expression (is the cat around?)
-  + 1 loop
+  + 1 expression
   + 1 mouse
-  + 1 variable (searchCount)
-  + 3 instructions (search for food, increment searchCount, shoutSearchCount
+  + 5 instructions: search for food, hide, squeak, add 1 to searchCount, and shout searchCount
+  + Create one shoulder to shoulder line with the expression, the hide instruction and the squeak instruction.
+    The girls with the search for food card should stand in line behind the expression.
 + Execution
-  + the computer will do the loop things it did from the previous activity.
-  + the searchCount variable has two jobs, when the computer asks what number it contains,
-    the searchCount variable will tell it to the computer. When the computer SETS the searchCount
-    variable the searchCount just has to remember that number and can forget any previous number.
-  + the twist is we'll add an incrementCount action which will read the searchCount, 
-    add 1 to it and set that value back to the searchCount variable.
-  + the shoutSearchCount instruction will read the searchCount variable and shout the 
-    "the mouse searched .... times" inserting the searchCoutn into that sentence.
+  + the computer will ask the expression her question "is the cat around?"
+  + if the answer is no, then the computer goes to the girl with the NO card. 
+    starting with the no card instruction, do every instruction in the line and then go back to the expression.
+  + if the answer is yes, go to the gir with the YES card the rest of the instructions in the should to shoulder line
 + Repeat switching roles.
 
 ### Scratch
