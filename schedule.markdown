@@ -4,16 +4,17 @@
 + **Introduction.**
 + **What is a game?**
   + Work with the girls to define what a game is.
-  + Break down a sport in terms of a game.
-  + Break down a board game in terms of a game.
-  + Break down a video game in terms of a game.
+  + Break down a sport in terms of a game. (soccer, basketball, softball)
+  + Break down a board game in terms of a game. (checkers, chutes and ladders)
+  + Break down a video game in terms of a game. (just dance, 
++ **Introduction to Scratch.  make the cat meow.**
 + **Our game's rules, goal and obstacles**
   + introduce the template for our game.
   + work with your girls to help them pick nouns from the scratch library, and the limited verbs
     to fill in their game template.
 
 ### Tuesday
-+ **Introduction to Scratch.  make the cat meow.**
+
 + **FUN-damentals**
   1. Computers do exactly what you tell them to do.
     + Unplugged activity -> moving the girl.
