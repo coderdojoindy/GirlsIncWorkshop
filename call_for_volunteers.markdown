@@ -15,14 +15,14 @@ We'll probably be doing some Human Computer activities as well in order to help 
 We'll be working with 25-30 girls between the ages of 9-11
  
 **Time commitment:**
-* *June 22* TBD time for volunteer introductions and light training, we'll provide a meal if the time hits a meal time.
-* *June 23 - 27th*, 9:15am to 11:30am
+* *June 21* TBD time for volunteer introductions and light training, we'll provide a meal if the time hits a meal time.
+* *June 22 - 26th*, 9:15am to 11:30am
  
 **Location:**
 * Fall Creek Academy  
   2540 N Capitol Ave, Indianapolis, IN 46208
  
-Please email jon.nolen@gmail.com if you can commit to volunteering! 
+Please email info@coderdojoindy.org if you can commit to volunteering! 
  
 Please consider asking for that time from your employer if you are interested but feel like the time makes it undoable.
  
