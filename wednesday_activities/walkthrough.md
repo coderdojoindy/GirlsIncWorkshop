@@ -3,8 +3,9 @@ Create a game where you collect some objects that fall from the sky and avoid ot
 
 ### Create a main character
 1. Select an existing sprite to use as your main character
-2. Create a script that makes the sprite follow your mouse left/right across the screen
-3. Run this script when the flag is clicked
+2. Name the main character
+3. Create a script that makes the sprite follow your mouse left/right across the screen
+4. Run this script when the flag is clicked
 
 ### Create a falling object
 1. Select another existing sprite to use as the (good) falling object
