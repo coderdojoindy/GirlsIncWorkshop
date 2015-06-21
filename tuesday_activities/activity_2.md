@@ -37,6 +37,7 @@ tell the mouse to squeak.
 + drag out an if - else block from control
 + drag a > block from operators into the if statement expression container
 + drag a [x position of sprite 1] block from sensing into the left side of the [>].
++ change the right side of the [>] to be 0
 + drag a [move 10 steps] block to the inside of the if clause, change 10 to -10
 + drag a [say] block to just below the move block in the if clause make it say "to the left!"
 + drag a [move 10 steps] block to the inside of the else clause.
