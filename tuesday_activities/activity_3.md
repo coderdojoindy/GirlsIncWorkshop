@@ -8,7 +8,7 @@ We are going to make our mouse find food a little bit better.  Before in our exa
 while the cat is not around, search for food
 when the cat shows up, then hide.
 ```
-![Diagram](https://raw.githubusercontent.com/coderdojoindy/GirlsIncWorkshop2014/master/images/repeating.png)
+![Diagram](https://raw.githubusercontent.com/coderdojoindy/GirlsIncWorkshop2014/master/images/repeat-until.png)
 + Setup
   + 1 computer
   + 1 expression
