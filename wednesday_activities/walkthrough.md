@@ -8,7 +8,7 @@ Create a game where you collect some objects that fall from the sky and avoid ot
 4. Run this script when the flag is clicked
 
 ### Create a falling object
-1. Select another existing sprite to use as the (good) falling object
+1. Select another existing sprite to use as the (good) falling object, give it a name.
 2. Drag the sprite to the top of the screen
 3. Create a script that moves the sprite to the bottom of the screen
 4. Make it fall straight down no matter where you start
