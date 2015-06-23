@@ -12,7 +12,7 @@ if the cat is around then mouse runs and hides.
 else then mouse searches for food.
 tell the mouse to squeak.
 ```
-![Diagram](https://raw.githubusercontent.com/coderdojoindy/GirlsIncWorkshop2014/master/images/if_else_activity.png)
+![Diagram](https://raw.githubusercontent.com/coderdojoindy/GirlsIncWorkshop2014/master/images/if_else.png)
 + Setup
   + designate a "mouse hole" spot on the floor. 
   + need 1 "computer" (the first time through the volunteer should be the computer)
