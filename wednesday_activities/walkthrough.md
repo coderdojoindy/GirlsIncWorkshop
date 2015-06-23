@@ -11,11 +11,11 @@ Create a game where you collect some objects that fall from the sky and avoid ot
 ### Create a falling object
 1. Select another existing sprite to use as the (good) falling object, give it a name.
 2. Drag the sprite to the top of the screen
-3. Create a script that moves the sprite to the bottom of the screen
-4. Make it fall straight down no matter where you start
-5. Make it move to the top and fall again when it hits the bottom
-6. Hide the object when it hits the bottom and show it when you move it to the top
-7. Run this script when the flag is clicked
+3. Create a script that moves the sprite to the bottom of the screen. ![motion](https://s3.amazonaws.com/scratch-blocks/motion.png)
+  - Make it fall straight down no matter where you start
+5. Make it move to the top and fall again when it hits the bottom. ![sensing](https://s3.amazonaws.com/scratch-blocks/sensing.png)![motion](https://s3.amazonaws.com/scratch-blocks/motion.png)
+6. Hide the object when it hits the bottom and show it when you move it to the top. ![looks](https://s3.amazonaws.com/scratch-blocks/looks.png)
+7. Run this script when the flag is clicked. ![events](https://s3.amazonaws.com/scratch-blocks/events.png)
 
 ### Create a score
 1. Create a score variable
