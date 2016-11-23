@@ -3,18 +3,56 @@
 We're going to learn that the cat follows our directions exactly.
 
 ### Blocks for this activity:
-* motion - `turn left [] degrees`: ![turn_left](https://s3.amazonaws.com/scratch-blocks/motion_turn_left.png)
-* motion - `turn right [] degrees`: ![turn_right](https://s3.amazonaws.com/scratch-blocks/motion_turn_right.png)
-* motion - `move [] steps`: ![move_steps](https://s3.amazonaws.com/scratch-blocks/motion_move_steps.png)
+* events - `green flag clicked`: runs attached scripts when green flag clicked on stage
+![flag_clicked](https://s3.amazonaws.com/scratch-blocks/events_flag_clicked.png)
+* pen - `clear`: clears any drawing on the stage
+![clear](https://s3.amazonaws.com/scratch-blocks/pen_clear.png)
+* pen - `pen down`: draws a line behind the sprite whenever it moves.
+![down](https://s3.amazonaws.com/scratch-blocks/pen_down.png)
+* motion - `point in direction []`: points the sprite in a direction.
+![point_in_direction](https://s3.amazonaws.com/scratch-blocks/motion_point_in_direction.png)
+* motion - `turn left [] degrees`: turns the sprite number of degrees left.
+![turn_left](https://s3.amazonaws.com/scratch-blocks/motion_turn_left.png)
+* motion - `turn right [] degrees`: turns the sprite number of degrees right.
+![turn_right](https://s3.amazonaws.com/scratch-blocks/motion_turn_right.png)
+* motion - `move [] steps`:
+![move_steps](https://s3.amazonaws.com/scratch-blocks/motion_move_steps.png)
 
 ### Instructions
-Add a series of `move [] steps`, `turn left [] degrees`, and `turn right [] degrees` instructions to a sprite in Scratch:
-- Experiment with changing the number of steps you move.
-- What happens if you increase the number of degrees you turn right or left?
-- Can you make the cat go straight up and and then back to where you started?
-- Can you make the cat go straight left or right and then back to where you started?
-- Can draw a square?
- 
+We are going to start every experiement in this activity with the following blocks script:
+![script](https://raw.githubusercontent.com/coderdojoindy/GirlsIncWorkshop2014/master/images/d2_a1_start.png)
+
+**Experiment 1**
+- attach a `move [100] steps` block to the bottom of our start.
+- click the green flag on the stage... what happens?
+
+![script](https://raw.githubusercontent.com/coderdojoindy/GirlsIncWorkshop2014/master/images/d2_a1_e1.png)
+
+**Experiment 2**
+- attach a `turn left [90] degrees` block to the bottom of our start.
+- attach a `move [100] steps` block to the bottom of the `turn left` block.
+- click the green flag on stage... what happens?
+
+![script](https://raw.githubusercontent.com/coderdojoindy/GirlsIncWorkshop2014/master/images/d2_a1_e2.png)
+
+**Experiment 3**
+- attach a `turn right [45] degrees` block to the bottom of our start.
+- attach a `move [100] steps` block to the bottom of the `turn left` block.
+- click the green flag on stage... what happens?
+
+![script](https://raw.githubusercontent.com/coderdojoindy/GirlsIncWorkshop2014/master/images/d2_a1_e3.png)
+
+**Experiment 4**
+- attach another `turn right [45] degrees` block to the bottom of *Experiment 3*.
+- attach another `move [100] steps` block to the bottom of that block.
+- click the green flag on the stage... what happens.
+
+![script](https://raw.githubusercontent.com/coderdojoindy/GirlsIncWorkshop2014/master/images/d2_a1_e4.png)
+
+**Experiement 5**
+- can you make the sprite draw a square?
+- can you make the sprite draw a spiral?
+
 # Activity 2
 
 We are going to learn about decisions (`if` blocks) and a little bit about sensing
